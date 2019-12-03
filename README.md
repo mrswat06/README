@@ -1,2 +1,2 @@
 # README
-Projeat
+Project Manager 
